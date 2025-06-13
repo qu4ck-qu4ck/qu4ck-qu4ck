@@ -13,7 +13,7 @@
 <p>I am currently pursuing a Bachelors' degree in Computer Science in University of Piraeus in Greece!</p>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 
-<h3 id="language">Language :</h3>
+<h3 id="language">Coding Languages</h3>
 <p><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&amp;logo=java" alt="Java">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="JavaScript">
