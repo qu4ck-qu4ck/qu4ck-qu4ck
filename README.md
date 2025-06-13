@@ -11,7 +11,7 @@
 <h3 id="hi-there">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ5NGN2aTR4eGhhdHhubnczYzl4ejloNnpyZ3U0bXczczA5emc0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FjuotitkhOffmPamc/giphy.gif" width="50"></h3>
 <p>My name is <strong>Olga Vidali</strong> and welcome to my profile.</p>
 <p>I am currently an undergraduate computer science student - in my final year - at the Department of Digital Systems, in University of Piraeus. Seeking to utilise and enhance my skills. </p>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF2YWQ4bmtzeGJjemxmbDZiY29lcXJ1YndhZ25ia2FyNDduYXR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Il8ES8oNucUYGxGK8L/giphy.gif" width="300">
 
 <h3 id="language">Experienced with: </h3>
 <p><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&amp;logo=java" alt="Java">
