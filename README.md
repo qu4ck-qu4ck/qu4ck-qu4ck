@@ -10,7 +10,7 @@
 </div>
 <h3 id="hi-there">Hi there 👋🎉</h3>
 <p>My name is <strong>Olga Vidali</strong> and welcome to my profile.</p>
-<p>Currently an undergraduate computer science student - in my final year - at the Department of Digital Systems, in University of Piraeus. Seeking to utilise and enhance my skills. </p>
+<p>I am currently an undergraduate computer science student - in my final year - at the Department of Digital Systems, in University of Piraeus. Seeking to utilise and enhance my skills. </p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFxeG50cDYzbW94b252dGxibWx4cmdleThiNDM2ZXo0Yzd2b3J6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWybLzXs7Hn0JKhSji/giphy.gif" width="300">
 
 <h3 id="language">Experienced with: </h3>
